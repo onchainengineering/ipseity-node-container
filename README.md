@@ -1,4 +1,4 @@
-# Indy Node Container
+# Ipseity Indy Node Container
 
 [![Building All Containers](https://github.com/hyperledger/indy-node-container/actions/workflows/build-all.yml/badge.svg)](https://github.com/hyperledger/indy-node-container/actions/workflows/build-all.yml)
 
